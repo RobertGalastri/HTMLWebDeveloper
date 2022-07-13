@@ -65,12 +65,12 @@
 
 #### Entendendo o que é semântica
 - [x] Semântica - Parte 1
-- [ ] Semântica - Parte 2
+- [x] Semântica - Parte 2
 
 #### Como usar textos e links em HTML
-- [ ] Tags para textos
-- [ ] Tags para links
-- [ ] Exercício prático
+- [x] Tags para textos
+- [x] Tags para links
+- [x] Exercício prático
 
 #### COmo organizar lista com HTML
 - [ ] Tags li, ul e ol
