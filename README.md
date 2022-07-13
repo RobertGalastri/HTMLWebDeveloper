@@ -1,6 +1,7 @@
 # HTMLWebDeveloper ⏳
 
-## Bem-vindo à DIO
+
+## 1º Bem-vindo à DIO
 
 - [x] O que é a Digital Innovation One?_
 - [x] Por que a carreira em desenvolvimento de software tem um futuro muito promissor?
@@ -12,7 +13,7 @@
 - [x] A nossa equipe está torcendo por você!
 
 
-## Lógica de Programação Essencial
+## 2º Lógica de Programação Essencial
 
 ##### Introdução a Lógica de Programação Essencial
 
@@ -31,7 +32,8 @@
 - [x] Aplicação prática com matrizes e vetores
 - [x] Certifique seu conhecimento
 
-## Introdução ao Git e ao GitHub
+
+## 3º Introdução ao Git e ao GitHub
 
 ##### Introdução ao Git
 - [x] Entendendo o que é Git e sua importância
@@ -58,7 +60,8 @@
 - [x] Como os conflitos acontecem no GitHub e como resolvê-los
 - [x] Certifique seu conhecimento
 
-## Introdução a criação de websites com HTML5 e CSS3 ⏳
+
+## 4º Introdução a criação de websites com HTML5 e CSS3 ⏳
 
 #### Introdução ao curso de HTML
 - [ ] Estrutura básica
