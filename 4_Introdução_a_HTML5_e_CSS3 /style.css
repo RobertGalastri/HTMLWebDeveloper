@@ -1,25 +1,34 @@
+* {
+    margin: 5px;
+}
+
 body {  
     background-color:gold;
 }
 
 #titulo, .subtitulo, .posttitulo {
-    color: blueviolet;
+    color: purple;
 }
 
 .posttitulo {
     font-size: 20px;
     font-style: italic;
-    margin-top: 15px;
+    margin: 0px;
 }
 
 .post {
     background-color: #a9a8a8;
-    padding: 10px;
+    padding: 15px;
     border: 2px solid black;
     margin-bottom: 10px;
     border-radius: 15px;
 }
 
+.paragrafo {
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
 .imagem {
-    border-radius: 15px;
+    border-radius: 15%;
 }

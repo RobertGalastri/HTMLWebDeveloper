@@ -82,7 +82,7 @@
 - [x] Conceitos básicos
 
 #### Estilizando elementos, textos e lists
-- [ ] Estilizando elementos
+- [x] Estilizando elementos
 - [ ] Estilizando textos
 - [ ] Estilizando listas
 
