@@ -75,7 +75,7 @@
 #### COmo organizar lista com HTML
 - [x] Tags li, ul e ol
 - [x] Exercício prático
-- [ ] Certifique seu conhecimento
+- [x] Certifique seu conhecimento
 
 #### Introdução e conceitos básicos do CSS3
 - [ ] Introdução ao CSS3
