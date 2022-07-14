@@ -64,31 +64,31 @@
 ## 4º Introdução a criação de websites com HTML5 e CSS3 ⏳
 
 #### Introdução ao curso de HTML
-- [ ] Estrutura básica
+- [x] Estrutura básica
 
 #### Entendendo o que é semântica
-- [ ] Semântica - Parte 1
-- [ ] Semântica - Parte 2
+- [x] Semântica - Parte 1
+- [x] Semântica - Parte 2
 
 #### Como usar textos e links em HTML
-- [ ] Tags para textos
-- [ ] Tags para links
-- [ ] Exercício prático
+- [x] Tags para textos
+- [x] Tags para links
+- [x] Exercício prático
 
 #### COmo organizar lista com HTML
-- [ ] Tags li, ul e ol
-- [ ] Exercício prático
-- [ ] Certifique seu conhecimento
+- [x] Tags li, ul e ol
+- [x] Exercício prático
+- [x] Certifique seu conhecimento
 
 #### Introdução e conceitos básicos do CSS3
-- [ ] Introdução ao CSS3
-- [ ] Conceitos básicos
+- [x] Introdução ao CSS3
+- [x] Conceitos básicos
 
 #### Estilizando elementos, textos e lists
-- [ ] Estilizando elementos
-- [ ] Estilizando textos
-- [ ] Estilizando listas
+- [x] Estilizando elementos
+- [x] Estilizando textos
+- [x] Estilizando listas
 
 #### Dimensão e alinhamento
-- [ ] Propriedades de dimensões e alinhamento
-- [ ] Certifique seu conhecimento
+- [x] Propriedades de dimensões e alinhamento
+- [x] Certifique seu conhecimento
