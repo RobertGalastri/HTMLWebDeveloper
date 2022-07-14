@@ -87,5 +87,5 @@
 - [x] Estilizando listas
 
 #### Dimensão e alinhamento
-- [ ] Propriedades de dimensões e alinhamento
-- [ ] Certifique seu conhecimento
+- [x] Propriedades de dimensões e alinhamento
+- [x] Certifique seu conhecimento
