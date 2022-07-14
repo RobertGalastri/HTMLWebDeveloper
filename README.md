@@ -83,8 +83,8 @@
 
 #### Estilizando elementos, textos e lists
 - [x] Estilizando elementos
-- [ ] Estilizando textos
-- [ ] Estilizando listas
+- [x] Estilizando textos
+- [x] Estilizando listas
 
 #### Dimensão e alinhamento
 - [ ] Propriedades de dimensões e alinhamento
