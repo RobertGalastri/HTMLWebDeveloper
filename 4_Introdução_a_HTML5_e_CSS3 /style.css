@@ -1,9 +1,19 @@
+body {  
+    background-color:gold;
+}
+
 #titulo, .subtitulo, .posttitulo {
     color: blueviolet;
-
 }
 
 .posttitulo {
     font-size: 20px;
     font-style: italic;
+}
+
+.post {
+    background-color:lime;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
 }
