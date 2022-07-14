@@ -1,0 +1,9 @@
+#titulo, .subtitulo, .posttitulo {
+    color: blueviolet;
+
+}
+
+.posttitulo {
+    font-size: 20px;
+    font-style: italic;
+}

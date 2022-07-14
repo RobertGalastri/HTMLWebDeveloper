@@ -78,7 +78,7 @@
 - [x] Certifique seu conhecimento
 
 #### Introdução e conceitos básicos do CSS3
-- [ ] Introdução ao CSS3
+- [x] Introdução ao CSS3
 - [ ] Conceitos básicos
 
 #### Estilizando elementos, textos e lists
