@@ -73,8 +73,8 @@
 - [x] Exercício prático
 
 #### COmo organizar lista com HTML
-- [ ] Tags li, ul e ol
-- [ ] Exercício prático
+- [x] Tags li, ul e ol
+- [x] Exercício prático
 - [ ] Certifique seu conhecimento
 
 #### Introdução e conceitos básicos do CSS3
