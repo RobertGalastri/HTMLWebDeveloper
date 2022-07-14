@@ -1,5 +1,6 @@
 * {
     margin: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 body {  
@@ -10,10 +11,18 @@ body {
     color: purple;
 }
 
+#titulo {
+    text-transform: uppercase;
+}
+
 .posttitulo {
     font-size: 20px;
     font-style: italic;
     margin: 0px;
+}
+
+a {
+    color: black;
 }
 
 .post {
@@ -31,4 +40,9 @@ body {
 
 .imagem {
     border-radius: 15%;
+}
+
+.lista_rodape {
+    list-style-type: none;
+    padding: 0;
 }
