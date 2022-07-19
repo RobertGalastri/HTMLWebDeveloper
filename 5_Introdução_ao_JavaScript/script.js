@@ -3,3 +3,25 @@ function soma(n1, n2){
 }
 
 console.log(soma(2, 6));
+
+
+function setReplace(frase, nome, novoNome){
+    return frase.replace(nome, novoNome)
+}
+
+console.log(setReplace('vai Japão', 'Japão', 'Jamaica'));
+
+
+let validar = 0;
+let idade = 18;
+
+function validaIdade(){
+    if (idade >= 18){
+        validar = true
+    }else{
+        validar = false
+    }
+    return validar;
+}
+
+console.log(validaIdade());
