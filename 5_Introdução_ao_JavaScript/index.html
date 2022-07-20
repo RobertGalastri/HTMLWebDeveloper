@@ -4,9 +4,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Parte 2: Manipulando elementos da página</title>
 </head>
-<body>
+<body onload="load()">
+
+    <h1>Parte 2: Manipulando elementos da página</h1>
+    <button type="button" onclick="clicou()" style="width: 250px; height: 50px;">clique aqui</button>
+    <p id="agradecimento" onclick="redirecionar()" style="color: brown;"></p>
+    <p></p>
+    <p></p>
+    <p></p>
+
+    <select onchange="funcaoChange(this)" name="" id="">
+        <option value="1">Valor 1</option>
+        <option value="2">Valor 2</option>
+        <option value="3">Valor 3</option>
+    </select>
     <script src="script.js"></script>
 </body>
 </html>
