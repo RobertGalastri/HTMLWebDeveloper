@@ -96,7 +96,7 @@
 ## 5º Construindo páginas para internet com Bootstrap ⏳
 
 #### Aprenda sobre o framework Bootstrap
-- [ ] Aprenda sobre o framework Bootstrap
+- [X] Aprenda sobre o framework Bootstrap
 
 #### Aprenda a utilizar o Bootstrap na sua página WEB
 - [ ] Aprenda a utilizar o Bootstrap na sua página WEB
