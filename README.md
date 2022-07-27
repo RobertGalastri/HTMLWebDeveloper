@@ -99,7 +99,7 @@
 - [X] Aprenda sobre o framework Bootstrap
 
 #### Aprenda a utilizar o Bootstrap na sua página WEB
-- [ ] Aprenda a utilizar o Bootstrap na sua página WEB
+- [x] Aprenda a utilizar o Bootstrap na sua página WEB
 
 #### Crie containers personalizados para o seu site
 - [ ] Crie containers personalizados para o seu site
