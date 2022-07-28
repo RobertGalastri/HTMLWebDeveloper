@@ -22,3 +22,8 @@ body {
 #parceiros {
     background-color: aqua;
 }
+
+.bg-footer {
+    background-color: black;
+    color: aqua;
+}
