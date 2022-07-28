@@ -1,5 +1,9 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
 .navbar {
-    background-color: blueviolet;
+    background-color: green;
 }
 
 .quemsomos {
@@ -8,4 +12,9 @@
 
 .margin {
     padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.texto1 {
+    margin-top: 20px;
 }

@@ -102,10 +102,10 @@
 - [x] Aprenda a utilizar o Bootstrap na sua página WEB
 
 #### Crie containers personalizados para o seu site
-- [ ] Crie containers personalizados para o seu site
+- [x] Crie containers personalizados para o seu site
 
 #### Trabalhando com imagens dentro de containers
-- [ ] Trabalhando com imagens dentro de containers
+- [x] Trabalhando com imagens dentro de containers
 
 #### Crie lista de navegação com imagens em seu projeto
 - [ ] Crie lista de navegação com imagens em seu projeto
