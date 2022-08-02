@@ -108,10 +108,10 @@
 - [x] Trabalhando com imagens dentro de containers
 
 #### Crie lista de navegação com imagens em seu projeto
-- [ ] Crie lista de navegação com imagens em seu projeto
+- [x] Crie lista de navegação com imagens em seu projeto
 
 #### Crie lista de navegação dentro de containers utilizando imagens
-- [ ] Crie lista de navegação dentro de containers utilizando imagens
+- [x] Crie lista de navegação dentro de containers utilizando imagens
 
 #### Certifique seu conhecimento
-- [ ] Certifique seu conhecimento
+- [x] Certifique seu conhecimento
